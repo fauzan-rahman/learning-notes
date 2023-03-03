@@ -1,2 +1,2 @@
 # learning-notes
-personal notes for things i learn
+personal notes for things i currently learn
